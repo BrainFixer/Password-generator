@@ -1,4 +1,4 @@
-import { generateLetters, lettersNumbers, lettersSpecialСharacters } from '/js/generator.js'
+import { generateLetters, lettersNumbers, lettersSpecialСharacters } from 'generator.js'
 
 
 const iconSixNode = document.getElementById('six');
