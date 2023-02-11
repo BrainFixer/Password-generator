@@ -1,4 +1,4 @@
-import { generateLetters, lettersNumbers, lettersSpecialСharacters } from './generator.js'
+import { generateLetters, lettersNumbers, lettersSpecialСharacters } from 'Password-generator/js/generator.js'
 
 
 const iconSixNode = document.getElementById('six');
